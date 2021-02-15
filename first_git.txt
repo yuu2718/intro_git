@@ -2,3 +2,7 @@
 基本的なワークフローを学びます。
 ・git add
 ・git commit
+
+
+onclick="document.querySelector('body').classList.toggle('menu-open')">
+onclick="document.querySelector('animation-string').classList.toggle('inview')">
