@@ -4,6 +4,7 @@
 ・git commit
 ・git rm
 ・git status
+・git diff
 
 onclick="document.querySelector('body').classList.toggle('menu-open')">
 onclick="document.querySelector('animation-string').classList.toggle('inview')">
